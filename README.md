@@ -1,8 +1,8 @@
-## 如果你觉得不错，麻烦给我点个赞，我要去装逼 。
+<h2 align="center">如果你觉得不错，麻烦给我点个赞，我需要去装逼 。</h2>
 
-[![语言排行](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g)](https://github.com/Chen-Xi-g)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300"></img></p>
 
-[![高国峰GitHub](https://github-readme-stats.vercel.app/api?username=Chen-Xi-g)](https://github.com/Chen-Xi-g)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chen-Xi-g" width="500"></img></p>
 
 ----
 
@@ -42,6 +42,8 @@
 - 😡 讨厌团建占用个人时间，讨厌加班，讨厌周六周日加班（毕竟我有效率在），讨厌不按时发工资的资本家，讨厌不守信的企业。工作是为了有更好的生活，而不是为了工作而舍弃生活。
 
 ---
+
+
 
 > 现在只使用Kotlin作为开发语言进行Android开发。
 
