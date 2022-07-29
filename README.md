@@ -1,8 +1,17 @@
 <h2 align="center">如果你觉得不错，麻烦给我点个赞，我需要去装逼 。</h2>
 
+<p align="center">
+    <a href="https://github.com/Pluto-MinLu">『我的组织』</a>
+    <a href="https://me.minlukj.com/">『我的博客』</a>
+</p>
+
+<p align="center"><a href="mailto:a912816369@gmail.com">『我的邮箱：a912816369@gmail.com』</a></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300"></img></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chen-Xi-g" width="500"></img></p>
+
+[『我的组织』](https://github.com/Pluto-MinLu)
 
 ----
 
