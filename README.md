@@ -11,8 +11,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chen-Xi-g" width="500"></img></p>
 
-[『我的组织』](https://github.com/Pluto-MinLu)
-
 ----
 
 ## About Me
