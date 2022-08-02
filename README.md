@@ -41,7 +41,6 @@
 
 | Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [GFAndroid](https://github.com/Chen-Xi-g/GFAndroid)          | 开源的Android架构，使用MVVM、Jetpack搭建。只为高效开发。(开发中，期待吧~！) ![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/GFAndroid?style=social)![start](https://img.shields.io/github/stars/Chen-Xi-g/GFAndroid?style=social) |
 | [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | 结合Jetpack，构建快速开发的MVVM框架。[![MVVM](https://jitpack.io/v/Chen-Xi-g/MVVMFramework.svg)](https://jitpack.io/#Chen-Xi-g/MVVMFramework)![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/MVVMFramework?style=social) ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
 | [AlvinMVVMPlugin_4_3](https://github.com/Chen-Xi-g/AlvinMVVMPlugin_4_3) | 适用于[MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)的模板插件，一键创建Activity和Fragment。![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/AlvinMVVMPlugin_4_3?style=social) |
 | **[GRouter](https://github.com/Chen-Xi-g/GRouter)**          | 学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
