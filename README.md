@@ -5,6 +5,7 @@
     <a href="https://me.minlukj.com/">『我的博客』</a>
 </p>
 
+
 <p align="center"><a href="mailto:a912816369@gmail.com">『我的邮箱：a912816369@gmail.com』</a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300"></img></p>
@@ -43,6 +44,9 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | 结合Jetpack，构建快速开发的MVVM框架。[![MVVM](https://jitpack.io/v/Chen-Xi-g/MVVMFramework.svg)](https://jitpack.io/#Chen-Xi-g/MVVMFramework)![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/MVVMFramework?style=social) ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
 | [AlvinMVVMPlugin_4_3](https://github.com/Chen-Xi-g/AlvinMVVMPlugin_4_3) | 适用于[MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)的模板插件，一键创建Activity和Fragment。![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/AlvinMVVMPlugin_4_3?style=social) |
+| [AudioPlay](https://github.com/Pluto-MinLu/AudioPlay)        | （停止维护）MediaPlayer进行音频播放的工具类![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioPlay?style=social) |
+| [AudioDemo](https://github.com/Pluto-MinLu/AudioDemo)        | （暂停维护）使用MediaRecorder录制语音的工具类，简单便捷。![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioDemo?style=social) |
+| [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      | （暂停维护）Android Toast，即便关闭了通知权限也会正常显示。![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
 | **[GRouter](https://github.com/Chen-Xi-g/GRouter)**          | 学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
 
 
