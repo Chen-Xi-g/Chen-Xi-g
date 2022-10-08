@@ -3,9 +3,9 @@
 <p align="center">
     <a href="https://github.com/Pluto-MinLu">『我的组织』</a>
     <a href="https://me.minlukj.com/">『我的博客』</a>
-    <b>服务器忘记续费，没有备份，现在所有数据都没有了，四年的博客毁于一旦！！！</b>
 </p>
 
+<p align="center"><b>服务器忘记续费，没有备份，现在所有数据都没有了，四年的博客毁于一旦！！！</b></p>
 
 <p align="center"><a href="mailto:a912816369@gmail.com">『我的邮箱：a912816369@gmail.com』</a></p>
 
