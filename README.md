@@ -5,8 +5,6 @@
     <a href="https://me.minlukj.com/">『我的博客』</a>
 </p>
 
-<p align="center"><b>服务器忘记续费，没有备份，现在所有数据都没有了，四年的博客毁于一旦！！！</b></p>
-
 <p align="center"><a href="mailto:a912816369@gmail.com">『我的邮箱：a912816369@gmail.com』</a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300"></img></p>
