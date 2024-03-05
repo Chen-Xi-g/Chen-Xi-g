@@ -41,6 +41,7 @@
 
 | Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [kmm_ledger](https://github.com/Chen-Xi-g/kmm_ledger)        | 使用 Kotlin Multiplatform 开发的跨平台记账应用，支持 Android、iOS、Desktop 平台的深色模式、横竖屏、宽窄屏。|
 | [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | 结合Jetpack，构建快速开发的MVVM框架。[![MVVM](https://jitpack.io/v/Chen-Xi-g/MVVMFramework.svg)](https://jitpack.io/#Chen-Xi-g/MVVMFramework)![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/MVVMFramework?style=social) ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
 | [AlvinMVVMPlugin_4_3](https://github.com/Chen-Xi-g/AlvinMVVMPlugin_4_3) | 适用于[MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)的模板插件，一键创建Activity和Fragment。![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/AlvinMVVMPlugin_4_3?style=social) |
 | [AudioPlay](https://github.com/Pluto-MinLu/AudioPlay)        | （停止维护）MediaPlayer进行音频播放的工具类![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioPlay?style=social) |
