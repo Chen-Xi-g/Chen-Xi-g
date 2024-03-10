@@ -1,4 +1,4 @@
-<h2 align="center">如果你觉得不错，麻烦给我点个赞，我需要去装逼 。</h2>
+<h2 align="center">如果你觉得不错，麻烦给我点个赞。</h2>
 
 <p align="center">
     <a href="https://github.com/Pluto-MinLu">『我的组织』</a>
