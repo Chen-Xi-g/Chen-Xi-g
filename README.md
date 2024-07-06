@@ -39,9 +39,14 @@
 
 > 现在只使用Kotlin作为开发语言进行Android开发。
 
-| Project                                                      | Description                                                  |
+**多平台项目**
+| Multi-Platform Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [kmm_ledger](https://github.com/Chen-Xi-g/kmm_ledger)        | 使用 Kotlin Multiplatform 开发的跨平台记账应用，支持 Android、iOS、Desktop 平台的深色模式、横竖屏、宽窄屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/kmm_ledger?style=social)|
+
+**Android项目**
+| Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [verve_ledger](https://github.com/Chen-Xi-g/VerveLedger)     | 现代化MVVM架构，使用Kotlin + MVVM + Retrofit + 协程 + Hilt 开发的记账软件。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveLedger?style=social)|
 | [JsonToTypeScriptPlugin](https://github.com/Chen-Xi-g/JsonToTypeScriptPlugin) | 支持鸿蒙DevEco Studio的Json转TypeScript实体类的编译器插件。![start](https://img.shields.io/github/stars/Chen-Xi-g/JsonToTypeScriptPlugin?style=social)|
 | [CloudMusic](https://github.com/Chen-Xi-g/CloudMusic)        | Jetpack Compose + MVI开发的高仿网易云应用首页的App。![start](https://img.shields.io/github/stars/Chen-Xi-g/CloudMusic?style=social)|
@@ -51,7 +56,6 @@
 | [AudioDemo](https://github.com/Pluto-MinLu/AudioDemo)        | （暂停维护）使用MediaRecorder录制语音的工具类，简单便捷。![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioDemo?style=social) |
 | [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      | （暂停维护）Android Toast，即便关闭了通知权限也会正常显示。![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
 | [GRouter](https://github.com/Chen-Xi-g/GRouter)              | 使用Kotlin学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
-
 
 
 ## Donate
