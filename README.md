@@ -1,5 +1,7 @@
 <h2 align="center">如果你觉得不错，麻烦给我点个赞。</h2>
 
+<p align="center">北京的小伙伴有合适的工作内推一下我，谢谢了。</p>
+
 <p align="center">
     <a href="https://github.com/Pluto-MinLu">『我的组织』</a>
     <a href="https://me.minlukj.com/">『我的博客』</a>
@@ -38,6 +40,11 @@
 
 
 > 现在只使用Kotlin作为开发语言进行Android开发。
+
+**HarmonyOS Next Beta**
+| 纯血鸿蒙项目                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [H_Music](https://github.com/Chen-Xi-g/H_Music)        | 使用HarmonyOS NEXT Beta版本开发一多音视频应用，适配手机、平板、折叠屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/H_Music?style=social)|
 
 **多平台项目**
 | Multi-Platform Project                                                      | Description                                                  |
