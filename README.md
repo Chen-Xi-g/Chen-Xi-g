@@ -54,6 +54,7 @@
 **Android项目**
 | Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [VerveDialog](https://github.com/Chen-Xi-g/VerveDialog)      | 一个基于 Jetpack Compose 的高度可定制化 Dialog 库。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveDialog?style=social)|
 | [verve_ledger](https://github.com/Chen-Xi-g/VerveLedger)     | 现代化MVVM架构，使用Kotlin + MVVM + Retrofit + 协程 + Hilt 开发的记账软件。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveLedger?style=social)|
 | [JsonToTypeScriptPlugin](https://github.com/Chen-Xi-g/JsonToTypeScriptPlugin) | 支持鸿蒙DevEco Studio的Json转TypeScript实体类的编译器插件。![start](https://img.shields.io/github/stars/Chen-Xi-g/JsonToTypeScriptPlugin?style=social)|
 | [CloudMusic](https://github.com/Chen-Xi-g/CloudMusic)        | Jetpack Compose + MVI开发的高仿网易云应用首页的App。![start](https://img.shields.io/github/stars/Chen-Xi-g/CloudMusic?style=social)|
