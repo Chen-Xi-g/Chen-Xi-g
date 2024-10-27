@@ -1,17 +1,24 @@
-<h2 align="center">如果你觉得不错，麻烦给我点个赞。</h2>
-
-<p align="center">北京的小伙伴有合适的工作内推一下我，谢谢了。</p>
-
 <p align="center">
-    <a href="https://github.com/Pluto-MinLu">『我的组织』</a>
-    <a href="https://me.minlukj.com/">『我的博客』</a>
+    <img src="/assets/header_bg.svg" alt="Header Background" />
 </p>
 
-<p align="center"><a href="mailto:a912816369@gmail.com">『我的邮箱：a912816369@gmail.com』</a></p>
+<div align="center">
+    <div>
+        <a href="https://github.com/Pluto-MinLu" style="text-decoration: none; color: #0366d6;">『我的组织』</a>
+        <a href="https://me.minlukj.com/" style="text-decoration: none; color: #0366d6;">『我的博客』</a>
+    </div>
+    <p>
+        <a href="mailto:a912816369@gmail.com" style="text-decoration: none; color: #0366d6;">『我的邮箱：a912816369@gmail.com』</a>
+    </p>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=Chen-Xi-g" width="500" alt="GitHub Stats"/>
+    </div>
+<!--     <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300" alt="Top Languages" />
+    </div> -->
+</div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-Xi-g" width="300"></img></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chen-Xi-g" width="500"></img></p>
 
 ----
 
@@ -37,9 +44,6 @@
 
 ---
 
-
-
-> 现在只使用Kotlin作为开发语言进行Android开发。
 
 **HarmonyOS Next Beta**
 | 纯血鸿蒙项目                                                      | Description                                                  |
