@@ -20,7 +20,7 @@
 
 ## My project
 
-**Android项目**
+**Android项目 (Kotlin/Java/Compose)**
 | Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [VerveDialog](https://github.com/Chen-Xi-g/VerveDialog)      | 一个基于 Jetpack Compose 的高度可定制化 Dialog 库。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveDialog?style=social)|
@@ -34,13 +34,13 @@
 | [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      | （暂停维护）Android Toast，即便关闭了通知权限也会正常显示。![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
 | [GRouter](https://github.com/Chen-Xi-g/GRouter)              | 使用Kotlin学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
 
-**多平台项目**
-| Multi-Platform Project                                                      | Description                                                  |
+**多平台项目 (Kotlin Multiplatform/Flutter)**
+| Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [kmm_ledger](https://github.com/Chen-Xi-g/kmm_ledger)        | 使用 Kotlin Multiplatform 开发的跨平台记账应用，支持 Android、iOS、Desktop 平台的深色模式、横竖屏、宽窄屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/kmm_ledger?style=social)|
 
-**HarmonyOS Next Beta**
-| 纯血鸿蒙项目                                                      | Description                                                  |
+**纯血鸿蒙 (HarmonyOS Next Beta)**
+| Project                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [H_Music](https://github.com/Chen-Xi-g/H_Music)        | 使用HarmonyOS NEXT Beta版本开发一多音视频应用，适配手机、平板、折叠屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/H_Music?style=social)|
 
