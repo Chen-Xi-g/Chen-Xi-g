@@ -18,7 +18,31 @@
     </div> -->
 </div>
 
+## My project
 
+**Android项目**
+| Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [VerveDialog](https://github.com/Chen-Xi-g/VerveDialog)      | 一个基于 Jetpack Compose 的高度可定制化 Dialog 库。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveDialog?style=social)|
+| [verve_ledger](https://github.com/Chen-Xi-g/VerveLedger)     | 现代化MVVM架构，使用Kotlin + MVVM + Retrofit + 协程 + Hilt 开发的记账软件。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveLedger?style=social)|
+| [JsonToTypeScriptPlugin](https://github.com/Chen-Xi-g/JsonToTypeScriptPlugin) | 支持鸿蒙DevEco Studio的Json转TypeScript实体类的编译器插件。![start](https://img.shields.io/github/stars/Chen-Xi-g/JsonToTypeScriptPlugin?style=social)|
+| [CloudMusic](https://github.com/Chen-Xi-g/CloudMusic)        | Jetpack Compose + MVI开发的高仿网易云应用首页的App。![start](https://img.shields.io/github/stars/Chen-Xi-g/CloudMusic?style=social)|
+| [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | 结合Jetpack，构建快速开发的MVVM框架。[![MVVM](https://jitpack.io/v/Chen-Xi-g/MVVMFramework.svg)](https://jitpack.io/#Chen-Xi-g/MVVMFramework)![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/MVVMFramework?style=social) ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
+| [AlvinMVVMPlugin_4_3](https://github.com/Chen-Xi-g/AlvinMVVMPlugin_4_3) | 适用于[MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)的模板插件，一键创建Activity和Fragment。![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/AlvinMVVMPlugin_4_3?style=social) |
+| [AudioPlay](https://github.com/Pluto-MinLu/AudioPlay)        | （停止维护）MediaPlayer进行音频播放的工具类![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioPlay?style=social) |
+| [AudioDemo](https://github.com/Pluto-MinLu/AudioDemo)        | （暂停维护）使用MediaRecorder录制语音的工具类，简单便捷。![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioDemo?style=social) |
+| [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      | （暂停维护）Android Toast，即便关闭了通知权限也会正常显示。![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
+| [GRouter](https://github.com/Chen-Xi-g/GRouter)              | 使用Kotlin学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
+
+**多平台项目**
+| Multi-Platform Project                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [kmm_ledger](https://github.com/Chen-Xi-g/kmm_ledger)        | 使用 Kotlin Multiplatform 开发的跨平台记账应用，支持 Android、iOS、Desktop 平台的深色模式、横竖屏、宽窄屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/kmm_ledger?style=social)|
+
+**HarmonyOS Next Beta**
+| 纯血鸿蒙项目                                                      | Description                                                  |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [H_Music](https://github.com/Chen-Xi-g/H_Music)        | 使用HarmonyOS NEXT Beta版本开发一多音视频应用，适配手机、平板、折叠屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/H_Music?style=social)|
 
 ----
 
@@ -43,31 +67,6 @@
 - 😡 工作是为了有更好的生活，而不是为了工作而舍弃生活。
 
 ---
-
-
-**HarmonyOS Next Beta**
-| 纯血鸿蒙项目                                                      | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [H_Music](https://github.com/Chen-Xi-g/H_Music)        | 使用HarmonyOS NEXT Beta版本开发一多音视频应用，适配手机、平板、折叠屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/H_Music?style=social)|
-
-**多平台项目**
-| Multi-Platform Project                                                      | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [kmm_ledger](https://github.com/Chen-Xi-g/kmm_ledger)        | 使用 Kotlin Multiplatform 开发的跨平台记账应用，支持 Android、iOS、Desktop 平台的深色模式、横竖屏、宽窄屏。![start](https://img.shields.io/github/stars/Chen-Xi-g/kmm_ledger?style=social)|
-
-**Android项目**
-| Project                                                      | Description                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [VerveDialog](https://github.com/Chen-Xi-g/VerveDialog)      | 一个基于 Jetpack Compose 的高度可定制化 Dialog 库。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveDialog?style=social)|
-| [verve_ledger](https://github.com/Chen-Xi-g/VerveLedger)     | 现代化MVVM架构，使用Kotlin + MVVM + Retrofit + 协程 + Hilt 开发的记账软件。![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveLedger?style=social)|
-| [JsonToTypeScriptPlugin](https://github.com/Chen-Xi-g/JsonToTypeScriptPlugin) | 支持鸿蒙DevEco Studio的Json转TypeScript实体类的编译器插件。![start](https://img.shields.io/github/stars/Chen-Xi-g/JsonToTypeScriptPlugin?style=social)|
-| [CloudMusic](https://github.com/Chen-Xi-g/CloudMusic)        | Jetpack Compose + MVI开发的高仿网易云应用首页的App。![start](https://img.shields.io/github/stars/Chen-Xi-g/CloudMusic?style=social)|
-| [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | 结合Jetpack，构建快速开发的MVVM框架。[![MVVM](https://jitpack.io/v/Chen-Xi-g/MVVMFramework.svg)](https://jitpack.io/#Chen-Xi-g/MVVMFramework)![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/MVVMFramework?style=social) ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
-| [AlvinMVVMPlugin_4_3](https://github.com/Chen-Xi-g/AlvinMVVMPlugin_4_3) | 适用于[MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)的模板插件，一键创建Activity和Fragment。![codeSize](https://img.shields.io/github/languages/code-size/Chen-Xi-g/AlvinMVVMPlugin_4_3?style=social) |
-| [AudioPlay](https://github.com/Pluto-MinLu/AudioPlay)        | （停止维护）MediaPlayer进行音频播放的工具类![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioPlay?style=social) |
-| [AudioDemo](https://github.com/Pluto-MinLu/AudioDemo)        | （暂停维护）使用MediaRecorder录制语音的工具类，简单便捷。![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioDemo?style=social) |
-| [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      | （暂停维护）Android Toast，即便关闭了通知权限也会正常显示。![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
-| [GRouter](https://github.com/Chen-Xi-g/GRouter)              | 使用Kotlin学习ARouter框架，手写组件路由框架，该项目仅是学习研究。      |
 
 
 ## Donate
