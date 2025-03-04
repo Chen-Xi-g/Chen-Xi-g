@@ -10,7 +10,7 @@
 
 <p align="center">🚀 Android & Cross-Platform Developer</p>
 
-<p align="center">⚡ KMM | Ktor | Figma | End-to-End Delivery</p>
+<p align="center">⚡ KMP | Ktor | Figma | End-to-End Delivery</p>
 
 <p align="center">
     <img alt="kotlin,androidstudio,apple,idea,gradle,git,github,gitlab,figma," src="https://skillicons.dev/icons?i=kotlin,androidstudio,apple,idea,gradle,git,github,gitlab,figma"/>
