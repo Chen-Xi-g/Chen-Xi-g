@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm 高国峰（Guofeng Gao）</h1>
+
 <p align="center">
     <img align="center" alt="Android" width="20%" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 </p>
-<h1 align="center">Hi 👋, I'm 高国峰（Guofeng Gao）</h1>
 
 <p align="center">
     <a alt="Gmail" href="a912816369@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
@@ -25,7 +26,7 @@
 ---
 
 <div align="center">
-    <h2>🔝 Top Contributed Repo</h3>
+    </br><h3>🔝 Top Contributed Repo</h3></br>
     <img alt="Top Contributed Repo" src="https://github-contributor-stats.vercel.app/api?username=Chen-Xi-g&limit=5&theme=blueberry&combine_all_yearly_contributions=true"/>
 </div>
 
