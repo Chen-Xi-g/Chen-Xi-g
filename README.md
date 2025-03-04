@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-    <p>🔭 Developing `Bazi Calculation (八字测算)` & `AIBox (AI盒子)` as self-initiated projects.</p>  
+    <p>🔭 Developing <strong>Bazi Calculation (八字测算)</strong> & <strong>AIBox (AI盒子)</strong> as self-initiated projects.</p>  
     <p>💻 Specializing in Android native development with modern architecture.</p>  
     <p>🏗️ Designing and implementing UI with Figma for mobile, desktop, and web platforms using Kotlin Multiplatform.</p>
 </div>
