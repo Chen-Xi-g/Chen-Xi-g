@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 高国峰（Guofeng Gao）</h1>
 
 <p align="center">
-    <img align="center" alt="Android" width="20%" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
+    <img align="center" alt="Android" width="120px" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 </p>
 
 <p align="center">
@@ -17,10 +17,9 @@
 </p>
 
 <div align="center">
-    <span>• 🔭 Developing `Bazi Calculation（八字测算）` & `AIBox（AI盒子）` as self-research projects.</span><br>
-    <span>• 💻 Expert in Android native development with modern architecture</span><br>
-    <span>• 🏗️ Full-stack implementation from UI to infrastructure</span><br>
-    <span>• 🚀 End-to-end delivery: design → multi-platform → server deployment</span>
+    <p>🔭 Developing `Bazi Calculation (八字测算)` & `AIBox (AI盒子)` as self-initiated projects.</p>  
+    <p>💻 Specializing in Android native development with modern architecture.</p>  
+    <p>🏗️ Designing and implementing UI with Figma for mobile, desktop, and web platforms using Kotlin Multiplatform.</p>
 </div>
 
 ---
