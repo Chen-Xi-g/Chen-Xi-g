@@ -50,9 +50,6 @@
 | [verve_ledger](https://github.com/Chen-Xi-g/VerveLedger)     | Modern MVVM architecture, a bookkeeping app developed with Kotlin + MVVM + Retrofit + Coroutines + Hilt.| ![start](https://img.shields.io/github/stars/Chen-Xi-g/VerveLedger?style=social) |
 | [CloudMusic](https://github.com/Chen-Xi-g/CloudMusic)        | A high-fidelity clone of the NetEase Cloud Music app's homepage, developed with Jetpack Compose and MVI architecture. | ![start](https://img.shields.io/github/stars/Chen-Xi-g/CloudMusic?style=social)|
 | [MVVMFramework](https://github.com/Chen-Xi-g/MVVMFramework)  | Build a rapid development MVVM framework integrated with Jetpack. | ![start](https://img.shields.io/github/stars/Chen-Xi-g/MVVMFramework?style=social) |
-| [AudioPlay](https://github.com/Pluto-MinLu/AudioPlay)        |(Deprecated) A utility class for audio playback using MediaPlayer. | ![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioPlay?style=social) |
-| [AudioDemo](https://github.com/Pluto-MinLu/AudioDemo)        |（Deprecated）A simple and convenient utility class for voice recording using MediaRecorder. | ![start](https://img.shields.io/github/stars/Pluto-MinLu/AudioDemo?style=social) |
-| [ToastUtils](https://github.com/Pluto-MinLu/ToastUtils)      |（Deprecated）Android Toast will display normally even if notification permissions are disabled. | ![start](https://img.shields.io/github/stars/Pluto-MinLu/ToastUtils?style=social) |
 
 **Kotlin Multiplatform**
 
