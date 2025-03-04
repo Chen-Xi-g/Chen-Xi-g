@@ -12,7 +12,7 @@
 <p align="center">⚡ KMM | Ktor | Figma | End-to-End Delivery</p>
 
 <p align="center">
-    <img alt="kotlin,androidstudio,apple,gradle,idea,git,github,gitlab,figma," src="https://skillicons.dev/icons?i=kotlin,androidstudio,apple,gradle,idea,git,github,figma"/>
+    <img alt="kotlin,androidstudio,apple,idea,gradle,git,github,gitlab,figma," src="https://skillicons.dev/icons?i=kotlin,androidstudio,apple,idea,gradle,git,github,gitlab,figma"/>
 </p>
 </br>
 
