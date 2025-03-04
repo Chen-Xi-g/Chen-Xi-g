@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-    <span>• 🔭 Developing `Bazi Calculation` & `AIBox` as independent projects</span><br>
+    <span>• 🔭 Developing `Bazi Calculation（八字测算）` & `AIBox（AI盒子）` as self-research projects.</span><br>
     <span>• 💻 Expert in Android native development with modern architecture</span><br>
     <span>• 🏗️ Full-stack implementation from UI to infrastructure</span><br>
     <span>• 🚀 End-to-end delivery: design → multi-platform → server deployment</span>
