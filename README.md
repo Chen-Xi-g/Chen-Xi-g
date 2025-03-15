@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a alt="Gmail" href="a912816369@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+    <a alt="Gmail" href="mailto:a912816369@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 <p align="center">🚀 Android & Cross-Platform Developer</p>
